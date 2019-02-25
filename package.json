@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Inovati/video-make/issues"
   },
-  "homepage": "https://github.com/Inovati/video-make#readme"
+  "homepage": "https://github.com/Inovati/video-make#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
